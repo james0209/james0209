@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+![](https://komarev.com/ghpvc/?username=james0209)
+
 ## Here's some info about me:
 
 - 🔭 I'm a software engineer working on the [Autoreduce Project](https://github.com/autoreduction) within the [ISIS Neutron and Muon Source](https://www.isis.stfc.ac.uk/Pages/home.aspx), [STFC](https://stfc.ukri.org/), [UKRI](https://www.ukri.org/)
